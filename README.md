@@ -49,13 +49,13 @@ Railway
 
 ## Data Flow Diagram
 
-![](./assets/dataflow.jpeg)
+![](./docs/dataflow.jpeg)
 
 ## Application Architecture Diagram
 
 
 
-![](./assets/architecture.png)
+![](./docs/architecture.png)
 
 ## User stories 
 
@@ -95,32 +95,32 @@ High-resolution wireframes located in /assets/Wireframes.
 
 ### <u>Sign up</u>
 
-![](/./assets/wireframe%20screen%20comparison/loginwire.png)
+![](/./docs/wireframe%20screen%20comparison/loginwire.png)
 
 
 ### <u>Log in</u>
-![](/./assets/wireframe%20screen%20comparison/signupwire.png)
+![](/./docs/wireframe%20screen%20comparison/signupwire.png)
 
 ### <u>Profile</u>
-![](/./assets/wireframe%20screen%20comparison/homewire.png)
+![](/./docs/wireframe%20screen%20comparison/homewire.png)
 
 ### <u>Journal</u>
-![](/./assets/wireframe%20screen%20comparison/journalwire.png)
+![](/./docs/wireframe%20screen%20comparison/journalwire.png)
 
 ### <u>Questionnaire</u>
-![](/./assets/wireframe%20screen%20comparison/questionairewire.png)
+![](/./docs/wireframe%20screen%20comparison/questionairewire.png)
 
 ### <u>Summary</u>
-![](/./assets/wireframe%20screen%20comparison/summarywire.png)
+![](/./docs/wireframe%20screen%20comparison/summarywire.png)
 
-![](/./assets/wireframe%20screen%20comparison/summarymobile.png)
+![](/./docs/wireframe%20screen%20comparison/summarymobile.png)
 
 ### <u>Settings</u>
-![](/./assets/wireframe%20screen%20comparison/settingswire.png)
+![](/./docs/wireframe%20screen%20comparison/settingswire.png)
 
 ## Trello Screenshots 
 (https://trello.com/b/MMurIsLO/mern-frontend-kanban)  
 
-![](/./assets/trello2.png)
-![](/./assets/trello3.png)
-![](/./assets/trello1.png)
+![](/./docs/trello2.png)
+![](/./docs/trello3.png)
+![](/./docs/trello1.png)
