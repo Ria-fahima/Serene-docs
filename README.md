@@ -16,7 +16,7 @@ Serene was built to solve the problem people face in (1) recounting discrete cha
 It does this by allowing users to log their mental state each day via journal entries and a weekly wellbeing questionnaire, with select data summarised by a weekly/daily graphical snapshot. 
 
 
-Unfortunately, many people struggle to disclose their mental state to others. With Serene, users can grant access to their mental wellbeing data to other users (e.g. psychologists, social workers, family members) for the purposes of monitoring.
+Unfortunately, many people struggle to disclose their mental state to others. With Serene, users can grant access to their mental wellbeing data to other users (e.g. psychologists, social workers, family members) for the purposes of monitoring. As per the Australian Institute of Health and Welfare, around 1 in 5 (21%) Australians aged 16–85 experienced a mental disorder(For the reference, [Click here](https://www.aihw.gov.au/reports/mental-health-services/mental-health))
 
 
 This app will help users better understand their moods so that they can manage them and feel better faster. Also, it’s easier to make decisions related to health which can provide a better quality of life.
